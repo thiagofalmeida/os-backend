@@ -1,4 +1,4 @@
-const Booking = require('../models/Booking').default;
+const Booking = require('../models/Booking');
 
 module.exports = {
 
