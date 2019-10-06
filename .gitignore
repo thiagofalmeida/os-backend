@@ -2,3 +2,5 @@ node_modules
 yarn.lock
 uploads/*
 !.keep
+.env
+package-lock.json
